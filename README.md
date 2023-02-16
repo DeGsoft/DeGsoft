@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Freelance fullstack developer (one-man band).
+- 🌱 I’m currently learning AI
+- 👯 I help you create the project of your dreams.
+- ⚡ MVP builder, web, mobile, desktop, blockchain.
+- 🤔 If it's broken I can fix it, if not I can improve it.
+- 📫 I work by project and by the hour.
+- 😄 I receive cryptos.
