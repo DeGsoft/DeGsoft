@@ -1,24 +1,47 @@
-### Hi there 👋
+### Hi there 👋! I'm DeGsoft 🤓
 
-<!--
-**DeGsoft/DeGsoft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+switch (oneManBand) {
+    case 🔭:
+        std::cout << "Freelance fullstack developer.";
+    case 🌱:
+        def learninng(ai): while ai is not success
+    case 👯:
+        System.Console.WriteLine("I help you create the project of your dreams.");
+    case ⚡:
+        <? echo "MVP builder, web, mobile, desktop, blockchain."; ?>
+    case 🤔:
+        if it's broken then I can fix it else I can improve it;
+    case 📫:
+        System.out.println("I work by project and by the hour.");
+    case 💵:
+        mapping(address => uint) iReceiveCrypto;
+    default 😄:
+        sudo rm -rf /
+        format c:        
+        break;
+}
+```
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-- 🔭 Freelance fullstack developer (one-man band).
-- 🌱 I’m currently learning AI
-- 👯 I help you create the project of your dreams.
-- ⚡ MVP builder, web, mobile, desktop, blockchain.
-- 🤔 If it's broken I can fix it, if not I can improve it.
-- 📫 I work by project and by the hour.
-- 😄 I receive cryptos.
+<p>
+✨
+  <a href="https://youtube.com/degsoft" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="degsoft" height="28px" width="28px" />
+  </a>
+  <a href="https://instagram.com/degsoft" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="degsoft" height="28px" width="28px" />
+  </a>
+  <a href="https://www.linkedin.com/in/diegoezequielguillen" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="diegoezequielguillen" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/degsoft" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="degsoft" height="28px" width="28px" />
+  </a>
+  <a href="https://www.tiktok.com/@degsoft" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="@degsoft" height="28px" width="28px" />
+  </a>  
+  <a href="https://twitch.tv/degsoft" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="degsoft" height="28px" width="28px" />
+  </a>
+  ✨
+</p>
