@@ -25,7 +25,7 @@ switch (oneManBand) {
 
 <p>
 ✨
-  <a href="https://youtube.com/degsoft" target="blank" style='margin-right:4px'>
+  <a href="https://www.youtube.com/channel/UCA3EHMeYoeCRN5gBm97UaHQ" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="degsoft" height="28px" width="28px" />
   </a>
   <a href="https://instagram.com/degsoft" target="blank">
